@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "chef_name": "Ian Kittichai",
+    "chef_image": "https://example.com/ian_kittichai.jpg",
+    "years_of_experience": 20,
+    "number_of_recipes": 120,
+    "likes": 1500,
+    "chef_bio": "Ian Kittichai is a Thai celebrity chef who has hosted several TV shows and has published several cookbooks. He is known for his innovative and contemporary take on Thai cuisine."
+  },
+  {
+    "id": 2,
+    "chef_name": "Duangporn  Songvisava",
+    "chef_image": "https://example.com/duangporn_songvisava.jpg",
+    "years_of_experience": 15,
+    "number_of_recipes": 90,
+    "likes": 1200,
+    "chef_bio": "Duangporn 'Bo' Songvisava is the co-owner and head chef of the Michelin-starred Bo.lan restaurant in Bangkok. She is known for her dedication to using sustainable ingredients and traditional cooking methods."
+  },
+  {
+    "id": 3,
+    "chef_name": "David Thompson",
+    "chef_image": "https://example.com/david_thompson.jpg",
+    "years_of_experience": 30,
+    "number_of_recipes": 80,
+    "likes": 1100,
+    "chef_bio": "David Thompson is an Australian chef who is considered to be one of the world's leading authorities on Thai cuisine. He has authored several books on Thai food and has won numerous awards for his cooking."
+  },
+  {
+    "id": 4,
+    "chef_name": "Nooror Somany-Steppe",
+    "chef_image": "https://example.com/nooror_somany_steppe.jpg",
+    "years_of_experience": 25,
+    "number_of_recipes": 100,
+    "likes": 1400,
+    "chef_bio": "Nooror Somany-Steppe is the co-founder and head chef of the Blue Elephant group of restaurants. She is known for her passion for Thai cuisine and her dedication to preserving traditional cooking methods."
+  },
+  {
+    "id": 5,
+    "chef_name": "Chumpol Jangprai",
+    "chef_image": "https://example.com/chumpol_jangprai.jpg",
+    "years_of_experience": 18,
+    "number_of_recipes": 70,
+    "likes": 900,
+    "chef_bio": "Chumpol Jangprai is a Thai chef who is known for his innovative take on traditional Thai cuisine. He has won several awards for his cooking and has served as a judge on several cooking competitions."
+  },
+  {
+    "id": 6,
+    "chef_name": "M.L. Sirichalerm Svasti",
+    "chef_image": "https://example.com/sirichalerm_svasti.jpg",
+    "years_of_experience": 40,
+    "number_of_recipes": 60,
+    "likes": 800,
+    "chef_bio": "M.L. Sirichalerm Svasti is a Thai chef who has written several books on Thai cuisine and has hosted several TV shows. He is known for his dedication to preserving traditional Thai cooking methods."
+  }
+]
