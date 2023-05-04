@@ -2,10 +2,10 @@
   {
     "id": "6452ce4d9e5aef8943226bd4",
     "chef_name": "Ian Kittichai",
-    "chef_image": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
+    "chef_image": "https://images.unsplash.com/photo-1512485800893-b08ec1ea59b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "years_of_experience": 20,
     "number_of_recipes": 6,
-    "likes": 1500,
+    "likes": "15k",
     "chef_bio": "Ian Kittichai is a Thai celebrity chef who has hosted several TV shows and has published several cookbooks. He is known for his innovative and contemporary take on Thai cuisine.",
     "recipes": [  
       {
@@ -74,15 +74,17 @@
         "description": "Coconut curry noodle soup with chicken and crispy noodles",
         "rating": 4.5
       }
-    ]
+    ],
+    "email": "iankittichai@gamil.com",
+    "address": "bankok, Thailand"
   },
   {
     "id": "7552ce4d69594c12bace740f",
-    "chef_name": "https://images.unsplash.com/photo-1543716627-839b54c40519?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-    "chef_image": "https://example.com/duangporn_songvisava.jpg",
+    "chef_name": "Duangporn Songvisava",
+    "chef_image": "https://images.unsplash.com/photo-1595273670150-bd0c3c392e46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1387&q=80",
     "years_of_experience": 15,
     "number_of_recipes": 3,
-    "likes": 1200,
+    "likes": "17k",
     "chef_bio": "Duangporn 'Bo' Songvisava is the co-owner and head chef of the Michelin-starred Bo.lan restaurant in Bangkok. She is known for her dedication to using sustainable ingredients and traditional cooking methods.",
     "recipes":[
       {
@@ -138,15 +140,17 @@
         "description": "Green Curry Chicken is a popular Thai curry dish that is made with green curry paste, coconut milk, chicken, Thai eggplants, and bamboo shoots. The dish is simmered until the chicken is cooked through and the vegetables are tender. The curry is finished with a handful of Thai basil leaves and is served with rice.",
         "rating": 4.5
       }
-    ]
+    ],
+    "email": "songvisava@gamil.com",
+    "address": "Phuket, Thailand"
   },
   {
     "id": "1652ce4def8c6eda13d9d39e",
     "chef_name": "David Thompson",
-    "chef_image": "https://images.unsplash.com/photo-1559575003-fb4ee38a747d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=386&q=80",
+    "chef_image": "https://images.unsplash.com/photo-1518609819766-6c7ed22fa768?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1412&q=80",
     "years_of_experience": 30,
     "number_of_recipes": 4,
-    "likes": 1100,
+    "likes": "11k",
     "chef_bio": "David Thompson is an Australian chef who is considered to be one of the world's leading authorities on Thai cuisine. He has authored several books on Thai food and has won numerous awards for his cooking.",
     "recipes": [
       {
@@ -230,15 +234,17 @@
         "description": "Stir-fried rice noodles with shrimp, tofu, and peanuts",
         "rating": 4.5
       }
-    ]
+    ],
+    "email": "david@gamil.com",
+    "address": "Koh Samui, Thailand"
   },
   {
     "id": "8952ce4d3ee2a5f14770e8f7",
     "chef_name": "Nooror Somany-Steppe",
-    "chef_image": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
+    "chef_image": "https://images.unsplash.com/photo-1496811425508-6d7ebb7ff32c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=845&q=80",
     "years_of_experience": 25,
     "number_of_recipes": 5,
-    "likes": 1400,
+    "likes": "14k",
     "chef_bio": "Nooror Somany-Steppe is the co-founder and head chef of the Blue Elephant group of restaurants. She is known for her passion for Thai cuisine and her dedication to preserving traditional cooking methods.",
     "recipes": [
       {
@@ -330,15 +336,17 @@
         "description": "Coconut milk-based curry with chicken, eggplant, and Thai basil",
         "rating": 4.0
       }
-    ]
+    ],
+    "email": "nooror@gamil.com",
+    "address": "Ayutthaya, Thailand"
   },
   {
     "id": "3552ce4d74e9680f01e427aa",
     "chef_name": "Chumpol Jangprai",
-    "chef_image": "https://images.unsplash.com/photo-1611657365907-1ca5d9799f59?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "chef_image": "https://images.unsplash.com/photo-1488905971602-47901d26961b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "years_of_experience": 18,
-    "number_of_recipes": 70,
-    "likes": 900,
+    "number_of_recipes": 5,
+    "likes": "9k",
     "chef_bio": "Chumpol Jangprai is a Thai chef who is known for his innovative take on traditional Thai cuisine. He has won several awards for his cooking and has served as a judge on several cooking competitions.",
     "recipes": [
       {
@@ -437,15 +445,17 @@
         "description": "Khao Niew Mamuang is a rich and flavorful curry that is made with massaman curry paste, coconut milk, beef, potatoes, onion, peanuts, cinnamon stick, and bay leaves. It is typically served with steamed rice.",
         "rating": 4.5
       }
-    ]
+    ],
+    "email": "chumpol@gamil.com",
+    "address": "Sukhothai, Thailand"
   },
   {
     "id": "4652ce4df575eb0d0b37cfa7",
     "chef_name": "M.L. Sirichalerm Svasti",
-    "chef_image": "https://images.unsplash.com/photo-1595475038784-bbe439ff41e6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "chef_image": "https://images.unsplash.com/photo-1595475038699-283c9aa41e09?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "years_of_experience": 40,
-    "number_of_recipes": 50,
-    "likes": 800,
+    "number_of_recipes": 4,
+    "likes": "8k",
     "chef_bio": "M.L. Sirichalerm Svasti is a Thai chef who has written several books on Thai cuisine and has hosted several TV shows. He is known for his dedication to preserving traditional Thai cooking methods.",
     "recipes": [
       {
@@ -519,6 +529,8 @@
         "description": "elevated with a plethora of herbs and spices, including bay leaves, cinnamon, cumin, cilantro, galangal, lemongrass, nutmeg curry with chicken, eggplant, and Thai basil",
         "rating": 4.0
       }
-    ]
+    ],
+    "email": "svasti@gamil.com",
+    "address": "Krabi, Thailand"
   }
 ]
