@@ -178,7 +178,7 @@
     "chef_bio": "Nooror Somany-Steppe is the co-founder and head chef of the Blue Elephant group of restaurants. She is known for her passion for Thai cuisine and her dedication.",
     "recipes": [
       {
-        "recipe_image": "https://example.com/tom_yum_soup.jpg",
+        "recipe_image": "https://images.unsplash.com/photo-1562565652-a0d8f0c59eb4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
         "recipe_name": "Tom Yum Soup",
         "cooking_method": "Boiling",
         "cook_time": "30 min",
@@ -188,17 +188,17 @@
         "rating": 4.4
       },
       {
-        "recipe_image": "https://example.com/green_curry.jpg",
-        "recipe_name": "Green Curry",
+        "recipe_image": "https://images.unsplash.com/photo-1581512778119-b71ae58bc687?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+        "recipe_name": "Chicken Curry",
         "cooking_method": "Simmering",
         "cook_time": "45 min",
         "difficulty_level": "Easy",
         "serving_size": "2-3",
-        "description": "Green Curry is a popular Thai dish that is made with a spicy green curry paste, coconut milk, chicken",
+        "description": "Chicken Curry is a popular Thai dish that is made with a spicy green curry paste, coconut milk, chicken",
         "rating": 4.0
       },
       {
-        "recipe_image": "https://example.com/pad_thai.jpg",
+        "recipe_image": "https://images.unsplash.com/photo-1626804475297-41608ea09aeb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "recipe_name": "Pad Thai",
         "cooking_method": "Stir-frying",
         "ingredients": [
@@ -218,7 +218,7 @@
         "rating": 4.5
       },
       {
-        "recipe_image": "https://example.com/massaman_curry.jpg",
+        "recipe_image": "https://images.unsplash.com/photo-1574653853027-5382a3d23a15?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80",
         "recipe_name": "Massaman Curry",
         "cooking_method": "Simmering",
         "ingredients": [
