@@ -12,7 +12,6 @@
         "recipe_image": "https://images.unsplash.com/photo-1628430043175-0e8820df47c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
         "recipe_name": "Tom Yum Goong",
         "cooking_method": "Boiling",
-        "ingredients": ["Prawns", "Lemongrass", "Galangal", "Kaffir Lime Leaves", "Chilies"],
         "cook_time": "15 min",
         "difficulty_level": "Medium",
         "serving_size": "2-3",
@@ -23,7 +22,6 @@
         "recipe_image": "https://images.unsplash.com/photo-1581512778119-b71ae58bc687?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
         "recipe_name": "Green Curry",
         "cooking_method": "Simmering",
-        "ingredients": ["Green Curry Paste", "Coconut Milk", "Chicken", "Eggplant", "Bamboo Shoots"],
         "cook_time": "30 min",
         "difficulty_level": "Easy",
         "serving_size": "2-4",
@@ -34,7 +32,6 @@
         "recipe_image": "https://images.unsplash.com/photo-1626804475297-41608ea09aeb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "recipe_name": "Pad Thai",
         "cooking_method": "Stir-frying",
-        "ingredients": ["Rice Noodles", "Tamarind Sauce", "Shrimp", "Tofu", "Bean Sprouts"],
         "cook_time": "20 min",
         "difficulty_level": "hard",
         "serving_size": "1-2",
@@ -45,7 +42,6 @@
         "recipe_image": "https://images.unsplash.com/photo-1562565652-a0d8f0c59eb4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
         "recipe_name": "Som Tam",
         "cooking_method": "Pounding",
-        "ingredients": ["Green Papaya", "Carrots", "Tomatoes", "Chilies", "Fish Sauce"],
         "cook_time": "15 min",
         "difficulty_level": "Easy",
         "serving_size": "2-3",
@@ -56,7 +52,6 @@
         "recipe_image": "https://images.unsplash.com/photo-1574653853027-5382a3d23a15?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80",
         "recipe_name": "Massaman Curry",
         "cooking_method": "Simmering",
-        "ingredients": ["Massaman Curry Paste", "Coconut Milk", "Beef", "Potatoes", "Peanuts"],
         "cook_time": "45 min",
         "difficulty_level": "Medium",
         "serving_size": "4-5",
@@ -67,7 +62,6 @@
         "recipe_image": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "recipe_name": "Tom Kha Gai",
         "cooking_method": "Boiling",
-        "ingredients": ["Coconut Milk", "Chicken", "Galangal", "Lemongrass", "Kaffir Lime Leaves"],
         "cook_time": "30 min",
         "difficulty_level": "Easy",
         "serving_size": "2-3",
@@ -91,53 +85,30 @@
       "recipe_image": "https://images.unsplash.com/photo-1478749485505-2a903a729c63?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
       "recipe_name": "Tom Yum Soup",
       "cooking_method": "Boiling",
-      "ingredients": [ "lemongrass", "galangal", "kaffir lime leaves", "Thai chili peppers", "mushrooms",      "shrimp",      "lime juice",      "fish sauce",      "sugar",      "coriander leaves"    ],
         "cook_time": "20 minutes",
         "difficulty_level": "Easy",
         "serving_size": "2-3",
-        "description": "Tom Yum Soup is a spicy and sour soup that is commonly found in Thai cuisine. The soup is flavored with lemongrass, galangal, kaffir lime leaves, and Thai chili peppers, and is typically served with shrimp and mushrooms. The soup is finished with a squeeze of lime juice, fish sauce, and sugar, and is garnished with fresh coriander leaves.",
+        "description": "Tom Yum Soup is a spicy and sour soup that is commonly found in Thai cuisine. The soup is flavored with lemongrass ",
         "rating": 4.0
       },
       {
         "recipe_image": "https://images.unsplash.com/photo-1562565651-7d4948f339eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80",
         "recipe_name": "Pad Kra Pao Moo",
         "cooking_method": "Stir-frying",
-        "ingredients": [
-          "rice noodles",
-          "bean sprouts",
-          "scallions",
-          "garlic",
-          "eggs",
-          "tamarind paste",
-          "fish sauce",
-          "sugar",
-          "crushed peanuts",
-          "lime wedges"
-        ],
         "cook_time": "30 minutes",
         "difficulty_level": "Easy",
         "serving_size": "2-3",
-        "description": "Pad Thai is a stir-fried noodle dish that is commonly found in Thai cuisine. The dish is made with rice noodles, bean sprouts, scallions, garlic, and eggs, and is flavored with tamarind paste, fish sauce, and sugar. The dish is garnished with crushed peanuts and lime wedges.",
+        "description": "Pad Thai is a stir-fried noodle dish that is commonly found in Thai cuisine.",
         "rating": 4.5
       },
       {
         "recipe_image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1426&q=80",
         "recipe_name": "Green Curry Chicken",
         "cooking_method": "Simmering",
-        "ingredients": [
-          "green curry paste",
-          "coconut milk",
-          "chicken",
-          "Thai eggplants",
-          "bamboo shoots",
-          "Thai basil leaves",
-          "fish sauce",
-          "sugar"
-        ],
         "cook_time": "40 minutes",
         "difficulty_level": "Medium",
         "serving_size": "2-3",
-        "description": "Green Curry Chicken is a popular Thai curry dish that is made with green curry paste, coconut milk, chicken, Thai eggplants, and bamboo shoots. The dish is simmered until the chicken is cooked through and the vegetables are tender. The curry is finished with a handful of Thai basil leaves and is served with rice.",
+        "description": "Green Curry Chicken is a popular Thai curry dish that is made with green curry paste.",
         "rating": 4.5
       }
     ],
@@ -157,77 +128,36 @@
         "recipe_image": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
         "recipe_name": "Tom Yum Soup",
         "cooking_method": "Boiling",
-        "ingredients": [
-          "lemongrass",
-          "galangal",
-          "kaffir lime leaves",
-          "Thai chili peppers",
-          "mushrooms",
-          "shrimp",
-          "lime juice",
-          "fish sauce",
-          "sugar",
-          "coriander leaves"
-        ],
         "cook_time": "20 minutes",
         "difficulty_level": "Hard",
         "serving_size": "2-3",
-        "description": "Tom Yum Soup is a spicy and sour soup that is commonly found in Thai cuisine. The soup is flavored with lemongrass, galangal, kaffir lime leaves, and Thai chili peppers, and is typically served with shrimp and mushrooms. The soup is finished with a squeeze of lime juice, fish sauce, and sugar, and is garnished with fresh coriander leaves.",
+        "description": "Tom Yum Soup is a spicy and sour soup that is commonly found in Thai cuisine.",
         "rating": 4.8
       },
       {
         "recipe_image": "https://images.unsplash.com/photo-1553163147-622ab57be1c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "recipe_name": "Pad Thai",
         "cooking_method": "Stir-frying",
-        "ingredients": [
-          "rice noodles",
-          "bean sprouts",
-          "scallions",
-          "garlic",
-          "eggs",
-          "tamarind paste",
-          "fish sauce",
-          "sugar",
-          "crushed peanuts",
-          "lime wedges"
-        ],
         "cook_time": "30 minutes",
         "difficulty_level": "Easy",
         "serving_size": "2-3",
-        "description": "Pad Thai is a stir-fried noodle dish that is commonly found in Thai cuisine. The dish is made with rice noodles, bean sprouts, scallions, garlic, and eggs, and is flavored with tamarind paste, fish sauce, and sugar. The dish is garnished with crushed peanuts and lime wedges.",
+        "description": "Pad Thai is a stir-fried noodle dish that is commonly found in Thai cuisine. The dish is made with rice noodles.",
         "rating": 4.0
       },
       {
         "recipe_image": "https://images.unsplash.com/photo-1609016580259-e04ddc09a850?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "recipe_name": "Green Curry Chicken",
         "cooking_method": "Simmering",
-        "ingredients": [
-          "green curry paste",
-          "coconut milk",
-          "chicken",
-          "Thai eggplants",
-          "bamboo shoots",
-          "Thai basil leaves",
-          "fish sauce",
-          "sugar"
-        ],
         "cook_time": "40 minutes",
         "difficulty_level": "Medium",
         "serving_size": "2-3",
-        "description": "Green Curry Chicken is a popular Thai curry dish that is made with green curry paste, coconut milk, chicken, Thai eggplants, and bamboo shoots. The dish is simmered until the chicken is cooked through and the vegetables are tender. The curry is finished with a handful of Thai basil leaves and is served with rice.",
+        "description": "Green Curry Chicken is a popular Thai curry dish that is made with green curry paste, coconut milk, chicken.",
         "rating": 4.5
       },
       {
         "recipe_image": "https://images.unsplash.com/photo-1626804475297-41608ea09aeb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "recipe_name": "Pad Thai",
         "cooking_method": "Stir-frying",
-        "ingredients": [
-          "Rice Noodles",
-          "Tamarind Sauce",
-          "Shrimp",
-          "Tofu",
-          "Bean Sprouts"
-        ],
         "cook_time": "20 min",
         "difficulty_level": "Hard",
         "serving_size": "1-2",
@@ -245,44 +175,26 @@
     "years_of_experience": 25,
     "number_of_recipes": 5,
     "likes": "14k",
-    "chef_bio": "Nooror Somany-Steppe is the co-founder and head chef of the Blue Elephant group of restaurants. She is known for her passion for Thai cuisine and her dedication to preserving traditional cooking methods.",
+    "chef_bio": "Nooror Somany-Steppe is the co-founder and head chef of the Blue Elephant group of restaurants. She is known for her passion for Thai cuisine and her dedication.",
     "recipes": [
       {
         "recipe_image": "https://example.com/tom_yum_soup.jpg",
         "recipe_name": "Tom Yum Soup",
         "cooking_method": "Boiling",
-        "ingredients": [
-          "lemongrass",
-          "galangal",
-          "kaffir lime leaves",
-          "Thai chilies",
-          "fish sauce",
-          "lime juice",
-          "mushrooms",
-          "shrimp"
-        ],
         "cook_time": "30 min",
         "difficulty_level": "Hard",
         "serving_size": "4-5",
-        "description": "Tom Yum Soup is a spicy and sour soup that is a staple in Thai cuisine. It is typically made with lemongrass, galangal, kaffir lime leaves, Thai chilies, fish sauce, lime juice, mushrooms, and shrimp.",
+        "description": "Tom Yum Soup is a spicy and sour soup that is a staple in Thai cuisine. It is typically made with lemongrass, galangal, kaffir lime leaves.",
         "rating": 4.4
       },
       {
         "recipe_image": "https://example.com/green_curry.jpg",
         "recipe_name": "Green Curry",
         "cooking_method": "Simmering",
-        "ingredients": [
-          "green curry paste",
-          "coconut milk",
-          "chicken",
-          "eggplant",
-          "bamboo shoots",
-          "Thai basil leaves"
-        ],
         "cook_time": "45 min",
         "difficulty_level": "Easy",
         "serving_size": "2-3",
-        "description": "Green Curry is a popular Thai dish that is made with a spicy green curry paste, coconut milk, chicken, eggplant, bamboo shoots, and Thai basil leaves. It is typically served with steamed rice.",
+        "description": "Green Curry is a popular Thai dish that is made with a spicy green curry paste, coconut milk, chicken",
         "rating": 4.0
       },
       {
@@ -302,7 +214,7 @@
         "cook_time": "30 min",
         "difficulty_level": "Easy",
         "serving_size": "2-4",
-        "description": "Pad Thai is a classic Thai dish that is made with rice noodles, shrimp, tofu, bean sprouts, scallions, egg, peanuts, and lime wedges. It is typically stir-fried and seasoned with fish sauce, tamarind paste, and chili powder.",
+        "description": "Pad Thai is a classic Thai dish that is made with rice noodles, shrimp, tofu, bean sprouts, scallions, egg, peanuts.",
         "rating": 4.5
       },
       {
@@ -322,7 +234,7 @@
         "cook_time": "60 min",
         "difficulty_level": "Medium",
         "serving_size": "4-5",
-        "description": "Massaman Curry is a rich and flavorful curry that is made with massaman curry paste, coconut milk, beef, potatoes, onion, peanuts, cinnamon stick, and bay leaves. It is typically served with steamed rice.",
+        "description": "Massaman Curry is a rich and flavorful curry that is made with massaman curry paste, coconut milk, beef, potatoes, onion, peanuts.",
         "rating": 4.5
       },
       {
@@ -366,7 +278,7 @@
         "cook_time": "45 min",
         "difficulty_level": "Medium",
         "serving_size": "1-2",
-        "description": "Moo Satay is a spicy and sour soup that is a staple in Thai cuisine. It is typically made with lemongrass, galangal, kaffir lime leaves, Thai chilies, fish sauce, lime juice, mushrooms, and shrimp.",
+        "description": "Moo Satay is a spicy and sour soup that is a staple in Thai cuisine. It is typically made with lemongrass, galangal, kaffir lime leaves.",
         "rating": 4.5
       },
       {
@@ -385,7 +297,7 @@
         "cook_time": "45 min",
         "difficulty_level": "Medium",
         "serving_size": "2-3",
-        "description": "Khao Pad is a popular Thai dish that is made with a spicy green curry paste, coconut milk, chicken, eggplant, bamboo shoots, and Thai basil leaves. It is typically served with steamed rice.",
+        "description": "Khao Pad is a popular Thai dish that is made with a spicy green curry paste, coconut milk, chicken, eggplant, bamboo shoots, and Thai basil leaves.",
         "rating": 4.8
       },
       {
@@ -442,7 +354,7 @@
         "cook_time": "60 min",
         "difficulty_level": "Easy",
         "serving_size": "4-5",
-        "description": "Khao Niew Mamuang is a rich and flavorful curry that is made with massaman curry paste, coconut milk, beef, potatoes, onion, peanuts, cinnamon stick, and bay leaves. It is typically served with steamed rice.",
+        "description": "Khao Niew Mamuang is a rich and flavorful curry that is made with massaman curry paste, coconut milk, beef, potatoes, onion, peanuts.",
         "rating": 4.5
       }
     ],
@@ -475,7 +387,7 @@
         "cook_time": "45 min",
         "difficulty_level": "hard",
         "serving_size": "1-2",
-        "description": "Moo Satay is a spicy and sour soup that is a staple in Thai cuisine. It is typically made with lemongrass, galangal, kaffir lime leaves, Thai chilies, fish sauce, lime juice, mushrooms, and shrimp.",
+        "description": "Moo Satay is a spicy and sour soup that is a staple in Thai cuisine.",
         "rating": 4.0
       },
       {
